@@ -18,9 +18,11 @@ status-website:
   introMessage: Status page for [CPH.dev](https://cph.dev/)
   navbar:
     - title: Status
-      href: /
+      href: https://$OWNER.github.io/$REPO/
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: Site
+      href: https://cph.dev/
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
