@@ -14,7 +14,7 @@ status-website:
   baseUrl: /upptime-cph.dev
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: CPH.dev
-  introTitle: "by Søren Nielsen - a developer living and working in Copenhagen."
+  introTitle: "Status page for CPH.dev"
   introMessage: Status page for [CPH.dev](https://cph.dev/)
   navbar:
     - title: Status
@@ -26,3 +26,5 @@ status-website:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+assignees: # Users to assign downtime issues (optional)
+  - sorennielsen
