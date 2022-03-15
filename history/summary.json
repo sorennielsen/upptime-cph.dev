@@ -6,17 +6,16 @@
     "slug": "cph-dev",
     "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "99.29%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 625,
-    "timeDay": 685,
-    "timeWeek": 567,
-    "timeMonth": 554,
+    "timeDay": 606,
+    "timeWeek": 569,
+    "timeMonth": 558,
     "timeYear": 576,
     "dailyMinutesDown": {
-      "2022-03-14": 10,
       "2022-01-31": 20,
       "2022-01-23": 55,
       "2021-11-22": 75,
@@ -25,8 +24,7 @@
       "2021-09-12": 16,
       "2021-07-21": 120,
       "2021-06-11": 17,
-      "2021-05-08": 88,
-      "2021-03-15": 40
+      "2021-05-08": 88
     }
   }
 ]
