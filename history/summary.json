@@ -4,7 +4,7 @@
     "url": "https://cph.dev",
     "icon": "https://icons.duckduckgo.com/ip3/cph.dev.ico",
     "slug": "cph-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 539,
     "timeYear": 631,
     "dailyMinutesDown": {
+      "2023-01-25": 0,
       "2022-11-30": 32,
       "2022-09-03": 72,
       "2022-08-29": 27,
