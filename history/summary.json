@@ -4,17 +4,17 @@
     "url": "https://cph.dev",
     "icon": "https://icons.duckduckgo.com/ip3/cph.dev.ico",
     "slug": "cph-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 529,
-    "timeDay": 509,
-    "timeWeek": 537,
-    "timeMonth": 503,
-    "timeYear": 535,
+    "time": 540,
+    "timeDay": 3107,
+    "timeWeek": 1183,
+    "timeMonth": 665,
+    "timeYear": 550,
     "dailyMinutesDown": {}
   }
 ]
